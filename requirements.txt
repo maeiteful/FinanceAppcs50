@@ -3,3 +3,4 @@ Flask==2.2.2
 requests==2.27.1
 Werkzeug==2.2.2
 gunicorn==20.0.4
+flask-session==0.4.0
